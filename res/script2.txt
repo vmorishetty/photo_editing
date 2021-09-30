@@ -1,0 +1,8 @@
+load all folder1
+show dababy
+current dababy
+load cake.ppm
+sharpen
+save cake2.jpg
+save all folder2
+end

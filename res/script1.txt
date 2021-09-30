@@ -1,0 +1,25 @@
+create layer pope
+current pope
+load pope.png
+blur
+monochrome
+create layer spanish
+current spanish
+load dababy.jpg
+invisible spanish
+show spanish
+remove layer spanish
+create layer chika
+current chika
+load chika.jpg
+save chika-clean.ppm
+sepia
+sharpen
+save chika-modified.png
+create layer dababy
+current dababy
+load dababy.jpg
+invisible dababy
+save chika-modified2.jpg
+save all folder1
+end
